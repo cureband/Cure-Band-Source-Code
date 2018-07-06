@@ -127,7 +127,7 @@ if bpm < 180:
                                                                                                                                                                         os.system(./home/pi/Desktop/Scripts/79.sh)
                                                                                                                                                                     else:
                                                                                                                                                                         if bpm =80:
-                                                                                                                                                                            os.system(./home/pi/Desktop/Scripts/79.sh)
+                                                                                                                                                                            os.system(./home/pi/Desktop/Scripts/80.sh)
                                                                                                                                                                         else:
                                                                                                                                                                             if bpm =81:
                                                                                                                                                                                 os.system(./home/pi/Desktop/Scripts/81.sh)
